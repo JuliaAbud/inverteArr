@@ -1,0 +1,6 @@
+D:\Usuários\1018998\source\repos\inverteArr\inverteArr\bin\Debug\inverteArr.exe.config
+D:\Usuários\1018998\source\repos\inverteArr\inverteArr\bin\Debug\inverteArr.exe
+D:\Usuários\1018998\source\repos\inverteArr\inverteArr\bin\Debug\inverteArr.pdb
+D:\Usuários\1018998\source\repos\inverteArr\inverteArr\obj\Debug\inverteArr.csproj.CoreCompileInputs.cache
+D:\Usuários\1018998\source\repos\inverteArr\inverteArr\obj\Debug\inverteArr.exe
+D:\Usuários\1018998\source\repos\inverteArr\inverteArr\obj\Debug\inverteArr.pdb
